@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
+    "start": "node index.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
@@ -12,5 +13,13 @@
   "dependencies": {
     "cors": "^2.8.5",
     "json-server": "^1.0.0-beta.0"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "g+t+https://github.com/TejaRavada/projectData.git"
+  },
+  "bugs": {
+    "url": "https://github.com/TejaRavada/projectData/issues"
+  },
+  "homepage": "https://github.com/TejaRavada/projectData#readme"
 }
